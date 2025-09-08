@@ -1,13 +1,13 @@
-*.exe
-*.out
-*.o
-*.obj
-*.log
-*.tmp
-.vscode/
-.idea/
-*.code-workspace
-.DS_Store
-Thumbs.db
-input.txt
-output.txt
+*.obj                # Compiled object files (C/C++)
+*.log                # Log files
+*.tmp                # Temporary files
+.vscode/             # VS Code workspace settings folder
+.idea/               # JetBrains IDE settings folder
+*.code-workspace     # VS Code workspace files
+.DS_Store            # macOS hidden file
+Thumbs.db            # Windows hidden thumbnail file
+input.txt            # Local input files for testing
+output.txt           # Local output files for testing
+*.cph                # Competitive Programming Helper extension files
+*.exe                # Compiled executable files
+*.out                # Compiled output files
