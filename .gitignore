@@ -1,0 +1,13 @@
+*.exe
+*.out
+*.o
+*.obj
+*.log
+*.tmp
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+input.txt
+output.txt
