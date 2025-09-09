@@ -8,7 +8,7 @@ Actively competing on **Codeforces**, **CodeChef**, and other platforms to sharp
 
 ## ⚡ Skills & Tools
 
-- Languages: **C**
+- Languages: **C++**
 - Algorithms: **Graphs, DP, Sorting, Greedy, Number Theory**
 - Tools: **VS Code, Git, Competitive Programming Helper (CPH)**
 
