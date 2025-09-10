@@ -22,6 +22,6 @@ Actively competing on **Codeforces**, **AtCoder**, and other platforms to sharpe
 
 ## 📫 Connect with me
 
-- [Codeforces](https://codeforces.com/profile/YourHandle)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
+- [Codeforces](https://codeforces.com/profile/sagorroy2.0)
+- [LinkedIn](https://www.linkedin.com/in/sagor-roy-3a5417249/)
+- [GitHub](https://github.com/sagorroy2003)
