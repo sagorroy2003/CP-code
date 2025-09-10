@@ -4,19 +4,11 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-Rating-orange)
 
 Passionate about algorithms, data structures, and problem-solving.  
-Actively competing on **Codeforces**, **AtCoder**, and other platforms to sharpen skills.
-
-## 🏆 Competitive Programming
-
-### Codeforces Contests
-
-- **Round 1048 (Div. 2)**
-  - A_Maple_and_Multiplication.cpp
-  - B_Cake_Collection.cpp
+Actively competing on **Codeforces**, **CodeChef**, and other platforms to sharpen skills.
 
 ## ⚡ Skills & Tools
 
-- Languages: **C++**, Python (basic)
+- Languages: **C++**
 - Algorithms: **Graphs, DP, Sorting, Greedy, Number Theory**
 - Tools: **VS Code, Git, Competitive Programming Helper (CPH)**
 
