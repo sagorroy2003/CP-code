@@ -51,48 +51,48 @@ int dx[4] = {-1, 1, -1, 1}, dy[4] = {-1, -1, 1, 1};
 const int MOD = 1e9 + 7;
 const int MAX = 1e5 + 5;
 
-void solve_A() /// COULDN'T SOLVE this( i will try later)
+void solve_A() ///
 {
     ll n;
     cin >> n;
     vll a(n);
-    input(a);
+
+    deque<ll> dq;
+
     ll ans = 0;
 
-    deque<ll> even, odd;
-
-    for (ll i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
-        if (a[i] % 2 == 0)
-            even.push_back(a[i]);
+        cin >> a[i];
+        if (a[i] & 1) // jodi odd hoy
+            dq.push_back(a[i]);
         else
-            odd.push_back(a[i]);
+            ans += a[i];
     }
 
-    rsrt(even);
-    rsrt(odd);
-    rsrt(a);
-
-    auto it = find(a.begin(), a.end(), odd[0]);
-    if (it != a.end())
-    {
-        ans += odd[0];
-        odd.erase(odd.begin());
-        a.erase(it);
-    }
-
-    if (odd.size() == 0)
+    if (dq.empty()) // if no odd number
     {
         cout << 0 << en;
         return;
     }
 
-    for (int i = 0; i < a.size(); i++)
+    rsrt(dq);
+
+    ans += dq[0]; // start the engine
+
+    dq.pop_front();
+
+    while (!dq.empty())
     {
-        //     if (a[i] % 2 == 0 &&)
-        //     {
-        //     }
+        dq.pop_back();
+        if (!dq.empty())
+        {
+            ans += dq.front();
+            dq.pop_front(); // nia falci
+        }
     }
+
+    cout << ans << en;
 }
 
 int main()

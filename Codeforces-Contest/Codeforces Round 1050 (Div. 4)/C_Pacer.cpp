@@ -67,7 +67,7 @@ void solve_B()
         cin >> curr_t >> curr_side;
 
         ll diff = curr_t - time;
-        if ((diff % 2) == (side != curr_side))
+        if ((diff % 2) == (side != curr_side)) //
         {
             tp += diff;
         }
@@ -80,7 +80,7 @@ void solve_B()
         side = curr_side;
     }
 
-    tp += (m - time);
+    tp += (m - time); // last segment
 
     cout << tp << endl;
 }
