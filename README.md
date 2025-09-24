@@ -1,7 +1,7 @@
 # 💻 Sagor Roy - Competitive Programmer
 
 ![C++](https://img.shields.io/badge/Language-C++-blue)
-![Codeforces](https://img.shields.io/badge/Codeforces-Rating-orange)
+![Codeforces](https://img.shields.io/badge/Codeforces-900+-orange)
 
 Passionate about algorithms, data structures, and problem-solving.  
 Actively competing on **Codeforces**, **CodeChef**, and other platforms to sharpen skills.
