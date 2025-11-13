@@ -11,7 +11,9 @@
 I participated in the Starters 211 contest and solved 4 problems! Here's a screenshot of my rank:
 
 <p align="center">
-  <img src="../../images/starters211_rank.png" alt="CodeChef Starters 211 Ranklist - Score 400, Rank 1617" width="60%">
+  <a href="https://www.codechef.com/users/sagor_roy">
+      <img src="../../images/starters211_rank.png" alt="CodeChef Starters 211 Ranklist - Score 400, Rank 1617" width="60%">
+  </a>
 </p>
 
 ---
