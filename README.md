@@ -15,5 +15,5 @@ Actively competing on **Codeforces**, **CodeChef**, and other platforms to sharp
 ## 📫 Connect with me
 
 - [Codeforces](https://codeforces.com/profile/sagorroy2.0)
-- [LinkedIn](https://www.linkedin.com/in/sagor-roy-3a5417249/)
+- [LinkedIn](https://www.linkedin.com/in/sagorroy2003/)
 - [GitHub](https://github.com/sagorroy2003)
