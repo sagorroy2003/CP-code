@@ -18,7 +18,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 
 ---
 
-# problme A. Basketball_Score
+# problme A.[Basketball_Score](https://www.codechef.com/problems/P1BAR)
 ---
 ### 💡 Logic / Approach
 **Problem:** Calculate the total basketball score based on the count of 3-pointers and 2-pointers scored.
@@ -29,7 +29,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 3. Print the result.
 4. Time complexity is **O(1)**.
 ---
-# problme B. Signal
+# problme B.[ Signal](https://www.codechef.com/problems/P2BAR)
 ---
 ### 💡 Logic / Approach
 **Problem:** Count how many pulse periods (`1`) occur *after* the first silence (`0`) has been observed.
@@ -41,7 +41,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 4. For every `'1'` encountered **after** the flag is set, increment the answer counter.
 5. This runs in **O(N)** time complexity.
 ---
-# problme C. Exit_Door
+# problme C.[ Exit_Door](https://www.codechef.com/problems/P3BAR)
 ---
 ### 💡 Logic / Approach
 **Problem:** People leave the room in decreasing order of their ID ($N$ down to $1$). They choose the side (Left or Right) that disturbs the fewest people remaining in the row.
@@ -53,7 +53,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 4. Add the minimum of the two values (`min(left, right)`) to the total disturbance count.
 5. **Remove** that person from the row (simulating them leaving) and repeat for the next highest ID.
 ---
-# problme D. Binary_Flip
+# problme D.[ Binary_Flip](https://www.codechef.com/problems/P4BAR)
 ---
 ### 💡 Logic / Approach
 **Problem:** Find the minimum flips required to make the count of substring `11` greater than or equal to the count of substring `00`.
