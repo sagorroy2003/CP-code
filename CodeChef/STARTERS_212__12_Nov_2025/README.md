@@ -1,3 +1,23 @@
+# CodeChef Starters 212 (Rated)
+
+> My solutions for the CodeChef Starters 212 contest, held on November 12, 2025.
+
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-sagor_roy-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sagor_roy)
+
+---
+
+## 🏆 Contest Performance
+
+I participated in the Starters 212 contest and solved 4 problems! Here's a screenshot of my rank:
+
+<p align="center">
+  <a href="https://www.codechef.com/users/sagor_roy">
+      <img src="../../images/starters212_rank.png" alt="CodeChef Starters 212 Ranklist - Score 400, Rank 3616" width="60%">
+  </a>
+</p>
+
+---
+
 # problme A. Basketball_Score
 ---
 ### 💡 Logic / Approach
@@ -8,7 +28,7 @@
 2. Apply the standard scoring formula: `Total = (X * 3) + (Y * 2)`.
 3. Print the result.
 4. Time complexity is **O(1)**.
-
+---
 # problme B. Signal
 ---
 ### 💡 Logic / Approach
@@ -20,7 +40,7 @@
 3. Once a `'0'` is encountered, set the flag to true.
 4. For every `'1'` encountered **after** the flag is set, increment the answer counter.
 5. This runs in **O(N)** time complexity.
-
+---
 # problme C. Exit_Door
 ---
 ### 💡 Logic / Approach
@@ -32,7 +52,7 @@
 3. Calculate the number of people to their left and to their right.
 4. Add the minimum of the two values (`min(left, right)`) to the total disturbance count.
 5. **Remove** that person from the row (simulating them leaving) and repeat for the next highest ID.
-
+---
 # problme D. Binary_Flip
 ---
 ### 💡 Logic / Approach
