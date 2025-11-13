@@ -23,7 +23,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 ### 💡 Logic / Approach
 **Problem:** Calculate the total basketball score based on the count of 3-pointers and 2-pointers scored.
 
-**Solution:**
+**Solution:**[`1.Basketball_Score.cpp`](./1.Basketball_Score.cpp)
 1. Read the number of 3-pointers (`X`) and 2-pointers (`Y`).
 2. Apply the standard scoring formula: `Total = (X * 3) + (Y * 2)`.
 3. Print the result.
@@ -34,7 +34,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 ### 💡 Logic / Approach
 **Problem:** Count how many pulse periods (`1`) occur *after* the first silence (`0`) has been observed.
 
-**Solution:**
+**Solution:**[`2.Signal.cpp`](./2.Signal.cpp)
 1. Initialize a flag `found_silence` to false.
 2. Iterate through the binary string.
 3. Once a `'0'` is encountered, set the flag to true.
@@ -46,7 +46,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 ### 💡 Logic / Approach
 **Problem:** People leave the room in decreasing order of their ID ($N$ down to $1$). They choose the side (Left or Right) that disturbs the fewest people remaining in the row.
 
-**Solution:**
+**Solution:**[`3.Exit_Door.cpp`](./3.Exit_Door.cpp)
 1. Simulate the process starting from the person with the highest ID ($N$).
 2. Find the current position of that person in the row.
 3. Calculate the number of people to their left and to their right.
@@ -58,7 +58,7 @@ I participated in the Starters 212 contest and solved 4 problems! Here's a scree
 ### 💡 Logic / Approach
 **Problem:** Find the minimum flips required to make the count of substring `11` greater than or equal to the count of substring `00`.
 
-**Solution:**
+**Solution:**[`4.Binary_Flip.cpp`](./4.Binary_Flip.cpp)
 1. First, count the existing occurrences of `00` ($C_0$) and `11` ($C_1$).
 2. If $C_1 \ge C_0$, no operations are needed (Answer = 0).
 3. If not, we calculate the "gap" between them.
