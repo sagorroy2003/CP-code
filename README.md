@@ -6,6 +6,9 @@
 Passionate about algorithms, data structures, and problem-solving.  
 Actively competing on **Codeforces**, **CodeChef**, and other platforms to sharpen skills.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sagorroy2003&theme=onedark&no-frame=true&column=4)
+
 ## ⚡ Skills & Tools
 
 - Languages: **C++**
